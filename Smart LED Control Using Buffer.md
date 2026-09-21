@@ -65,3 +65,4 @@ Current Limiting Resistor
 * Add wireless control using Bluetooth or Wi-Fi
 
 ## **Result**
+<img width="900" height="1600" alt="result jpeg" src="https://github.com/user-attachments/assets/12784e76-98f1-45d6-9a09-bf2266ffbf73" />
